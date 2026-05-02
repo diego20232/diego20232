@@ -1,7 +1,7 @@
 ## Diego Sampaio!
 
 - 🐳 Atualmente estou estudando a área de Qualidade de Software pela @ Ebac
-- 🦖 Grudando em Análise e Desenvolvimento de Sitemas pela FAM
+- 🦖 Graduando em Análise e Desenvolvimento de Sitemas pela FAM
 - 🦉 Contato: diegosampaio986@gmail.com
 - 🐦‍⬛ Pronunus: ele/dele
   
