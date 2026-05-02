@@ -1,4 +1,4 @@
-## Diego Sampaio!
+# Diego Sampaio
 
 - 🐳 Atualmente estou estudando a área de Qualidade de Software pela @ Ebac
 - 🦖 Graduando em Análise e Desenvolvimento de Sitemas pela FAM
@@ -9,7 +9,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Sampaio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosampaio-dev)
 
- ## Tecnologia em Destaque
+ ## 🔎 Tecnologia em Destaque
   ### Lingaugens
   <div style="display: inline_block">
   <img alt="Diego-JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
