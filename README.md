@@ -3,7 +3,7 @@
 - 🐳 Atualmente estou estudando a área de Qualidade de Software pela @ Ebac
 - 🦖 Graduando em Análise e Desenvolvimento de Sitemas pela FAM
 - 🦉 Contato: diegosampaio986@gmail.com
-- 🐦‍⬛ Pronunus: ele/dele
+- 🐦‍⬛ Pronouns: ele/dele
  
 ## Sobre mim
 Sou um profissional em formação na área de Tecnologia da Informação, com grande interesse em Quality Assurance (QA) e uma forte paixão por UX/UI Design, buscando sempre unir qualidade e experiência do usuário em tudo o que desenvolvo.
