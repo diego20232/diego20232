@@ -4,7 +4,10 @@
 - 🦖 Graduando em Análise e Desenvolvimento de Sitemas pela FAM
 - 🦉 Contato: diegosampaio986@gmail.com
 - 🐦‍⬛ Pronunus: ele/dele
-  
+ 
+## Sobre mim
+Sou um profissional em formação na área de Tecnologia da Informação, com grande interesse em Quality Assurance (QA) e uma forte paixão por UX/UI Design, buscando sempre unir qualidade e experiência do usuário em tudo o que desenvolvo.
+    
 ## 🌐 Onde me encontrar
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Sampaio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosampaio-dev)
@@ -23,3 +26,8 @@
   ### Testes e Automação
 ![Cypress](https://skillicons.dev/icons?i=cypress)
 ![Playwright](https://skillicons.dev/icons?i=playwright)
+
+---
+
+  ### Protótipos UX/UI 
+![Figma](https://skillicons.dev/icons?i=figma)
